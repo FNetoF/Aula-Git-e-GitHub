@@ -118,6 +118,11 @@
     ```shell
     $ git commit -m "Commit inicial"
     ```
+11. Envia o branch principal:
+
+    ```shell
+    $ git push origin main
+    ```
 
 ---
 ## Estilizando o terminal para produtividade
