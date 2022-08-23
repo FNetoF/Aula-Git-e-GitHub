@@ -1,6 +1,6 @@
 <div style="display: inline_block"><br/>
-    <img alt="Imgem" src="https://user-images.githubusercontent.com/60360540/186227538-7f8d75c9-88db-4486-b3dd-b2c375918767.png" width="350px" />
-    <img align="right" alt="Imagem" src="https://user-images.githubusercontent.com/60360540/186230759-32dc5c33-e211-4922-a6a2-5c6b1cbf3781.png" width="350px" />
+    <img alt="Imgem" src="https://user-images.githubusercontent.com/60360540/186227538-7f8d75c9-88db-4486-b3dd-b2c375918767.png" width="250px" />
+    <img align="right" alt="Imagem" src="https://user-images.githubusercontent.com/60360540/186230759-32dc5c33-e211-4922-a6a2-5c6b1cbf3781.png" width="250px" />
 </div><br/>
 
 
