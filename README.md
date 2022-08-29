@@ -6,7 +6,7 @@
 
 # Sobre o projeto 
 <p>
-    Preparando aula de Git e GitHub para a matéria de Desenvolvimento de Aplicações para Web II. (Aula prevista para o dia 25/ago/2022).
+    Aula do curso de Git e GitHub, lecionada no dia 25 de Agosto para à matéria de Desenvolvimento de Aplicações para Web II.
 </p><br>
 
 <div style="display: inline_block"><br/>
