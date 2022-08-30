@@ -6,7 +6,7 @@
 
 # Sobre o projeto 
 <p>
-    Preparando aula de Git e GitHub para a matéria de Desenvolvimento de Aplicações para Web II. (Aula prevista para o dia 25/ago/2022).
+    Aula do curso de Git e GitHub, lecionada no dia 25 de Agosto para à matéria de Desenvolvimento de Aplicações para Web II.
 </p><br>
 
 <div style="display: inline_block"><br/>
@@ -118,7 +118,40 @@
     ```shell
     $ git commit -m "Commit inicial"
     ```
+
 11. Envia o branch principal:
+
+    ```shell
+    $ git push origin main
+    ```
+
+---
+
+## Envie seu projeto para o GitHub de forma simplificada
+
+1. Busca a cópia remota especificada da ramificação atual:
+
+    ```shell
+    $ git clone <LinkRepositório>
+    ```
+2. Adicionando arquivos:
+
+    ```shell
+    $ git add .
+    ```
+
+3. Status do projeto:
+
+    ```shell
+    $ git status
+    ```
+
+4. Checkpoint do seu projeto:
+
+    ```shell
+    $ git commit -m "Commit inicial"
+    ```
+5. Envia o branch principal:
 
     ```shell
     $ git push origin main
