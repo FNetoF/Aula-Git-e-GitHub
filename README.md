@@ -129,7 +129,7 @@
 
 ## Envie seu projeto para o GitHub de forma simplificada
 
-1. Busca a cópia remota especificada da ramificação atual:
+1. Git clone criará um novo diretório local para o repositório, copiará todo o conteúdo do repositório especificado:
 
     ```shell
     $ git clone <LinkRepositório>
